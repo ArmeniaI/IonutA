@@ -1,3 +1,3 @@
 # Git workshop
 
-This is my first git workshp
+This is my first git workshop...
